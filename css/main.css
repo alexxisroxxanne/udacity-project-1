@@ -1,0 +1,49 @@
+/* General */
+body {
+	color: #666;
+	font: 16px/2 verdana, sans-serif;
+}
+
+.col-md-5 {
+	margin: 21px 0 0 0;
+}
+
+.col-md-7 {
+	padding-top: 1px;
+}
+
+/* Header Styles */
+h1 {
+	margin-top: 44.5px;
+	font-size: -webkit-xxx-large;
+}
+
+h2 {
+	color: #f07c17;
+	font-size: x-large;
+	font-weight: bold;
+	margin: 20px 0 0 0;
+}
+
+/* Main Feature Box */
+.main-features {
+	margin: 30px 0 0 0;
+	padding: 10px 0 0 30px;
+	border: 1px solid #ccc;
+}
+
+ul {
+	padding: 30px 0 30px 40px;
+}
+
+/* Spacing between title and content of article */
+.first-paragraph {
+	margin: 30px 0 10px 0;
+}
+
+.mockup-overlay {
+       top: 0;
+       position: absolute;
+       z-index: -1;
+       opacity: 0.4;
+    }
